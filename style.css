@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(55, 179, 55);
+    color: white;
+    font-size: 30px;
+}
+
+.heading {
+    margin-top: 20px;
+    letter-spacing: 7px;
+}
+
+.main {
+    margin-top: 100px;
+}
+
+kbd {
+    background-color: azure;
+    color:black;
+    font-weight: bold;
+}
+
+#camera,#snapshot {
+    border: 3px greenyellow dashed;
+    width: 100px;
+}
